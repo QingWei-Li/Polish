@@ -1,0 +1,14 @@
+{
+  "name": "Polish",
+  "productName": "Polish",
+  "identifier": "com.cinwell.polish",
+  "description": "Help you generator iconfont by sketch file.",
+  "version": "0.1.0",
+  "author": "qingwei.li <cinwell.li@gmail.com>",
+  "main": "background.js",
+  "dependencies": {
+    "fs-jetpack": "^0.7.0",
+    "lodash": "^3.10.1",
+    "webfonts-generator": "^0.3.1"
+  }
+}
